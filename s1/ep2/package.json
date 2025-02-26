@@ -1,0 +1,12 @@
+{
+  "name": "ep2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/app.js",
+  "scripts": {
+    "start": "tsc --build && node dist/app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
