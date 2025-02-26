@@ -20,12 +20,12 @@ function afficherInfoProfessionnelle(p: PersonnePro): void {
 const emp: Employe = {
 	nom: "A",
 	poste: "B",
-}
+};
 
 const cli: Client = {
 	nom: "C",
 	entreprise: "D",
-}
+};
 
-afficherInfoProfessionnelle(emp)
-afficherInfoProfessionnelle(cli)
+afficherInfoProfessionnelle(emp);
+afficherInfoProfessionnelle(cli);
