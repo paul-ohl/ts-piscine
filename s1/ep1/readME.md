@@ -28,3 +28,10 @@ DOCUMENTATION :
 
 https://www.typescriptlang.org/docs/handbook/2/everyday-types.html
 https://www.typescriptlang.org/docs/handbook/2/objects.html
+
+## Run:
+
+```bash
+tsc --build
+node dist/app.js
+```
